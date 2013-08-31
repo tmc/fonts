@@ -1,0 +1,6 @@
+Package fonts provides a cross-platform way to load font data
+-------------------------------------------------------------
+http://godoc.org/github.com/tmc/fonts
+
+Currently supported: MacOS, (generic) Linux, Windows
+License: ISC
