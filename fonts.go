@@ -14,7 +14,7 @@ func List() ([]Font, error) {
 	return listFonts()
 }
 
-// Load attempts to load font file data given a font names
+// Load attempts to load font file data given font names
 func Load(fontNames ...string) (io.Reader, error) {
 	for _, fontName := range fontNames {
 		b, e := loadFont(fontName)
