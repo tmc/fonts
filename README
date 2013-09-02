@@ -1,5 +1,5 @@
-Package fonts provides a cross-platform way to load font data
--------------------------------------------------------------
+Package fonts provides a cross-platform way to load font data in Go
+-------------------------------------------------------------------
 http://godoc.org/github.com/tmc/fonts
 
 Currently supported: MacOS, (generic) Linux, Windows
